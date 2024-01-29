@@ -4,9 +4,9 @@
 
 
 
-# <img width="30"  src="https://th.bing.com/th/id/R.79a687ba533cbc4f58e5e383ab0b8669?rik=XodsdnX4hpmWvw&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fgoogle%2fnoto-emoji-travel-places%2f512%2f42486-house-icon.png&ehk=WnJn%2fMABcw%2bSxu%2bzXBrasBkVuyqYVqFqgEac53dCSrg%3d&risl=&pid=ImgRaw&r=0">_ Esteban Leon Aguilar 
+# <img width="50" align='center' src="https://github.com/esteban-ll-aguilar/esteban-ll-aguilar/blob/main/images/Image_logo.jpeg?raw=true">  Esteban Leon Aguilar 
 
-<img width="30"  src="https://img.freepik.com/premium-photo/futuristic-fantasy-landscape-sci-fi-landscape-with-planet-neon-light-cold-planet-galaxy-planets_826378-324.jpg">&nbsp;&nbsp;
+<img width="30"  src="https://github.com/esteban-ll-aguilar/esteban-ll-aguilar/blob/main/icons/enlace-roto.png?raw=true">&nbsp;&nbsp;
 
 <p align='center'>
 <a href="https://www.linkedin.com/feed/"><img height="30" src="https://th.bing.com/th?id=ODLS.c1b94e26-52d8-4d85-8faf-a367583929ce&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"></a>&nbsp;&nbsp;
