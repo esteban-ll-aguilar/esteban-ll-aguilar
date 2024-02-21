@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="230" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"  />
+<img align="left" height="220" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"  />
 
 ###
 
@@ -70,20 +70,20 @@
 
 <br clear="both">
 
-<img align="left" height="230" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"  />
+<img align="left" height="215" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"  />
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="right">Social Media</h2>
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/esteban-leon-aguilar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/3steban_4guilar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="40" alt="twitter logo"  />
   </a>
 </div>
 
