@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"  />
+<img align="left" height="212" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"  />
 
 ###
 
-<p align="left">Hi everyone! 👋</p>
+<h1 align="left">Hi everyone! 👋</h1>
 
 ###
 
@@ -67,6 +67,8 @@
 <p align="left"></p>
 
 ###
+
+<br clear="both">
 
 <img align="left" height="200" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"  />
 
