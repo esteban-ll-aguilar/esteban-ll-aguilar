@@ -14,6 +14,12 @@
 
 <br clear="both">
 
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=esteban-ll-aguilar&radius=0&theme=github-dark&area=true&order=5&custom_title=Esteban%20Leon%20Aguilar&color=44769F&line=34D0D7&point=C0CEDC&area_color=552C88&hide_title=false&hide_border=false" height="313" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-ll-aguilar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -22,9 +28,17 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <br clear="both">
 
 <h2 align="left">Languages & Tools</h2>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -48,6 +62,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
@@ -68,17 +84,17 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
 <br clear="both">
 
 <img align="left" height="215" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"  />
 
 ###
 
-<h2 align="right">Social Media</h2>
-
-###
-
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/esteban-leon-aguilar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
