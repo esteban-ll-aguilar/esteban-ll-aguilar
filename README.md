@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="212" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"  />
+<img align="left" height="230" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"  />
 
 ###
 
@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"  />
+<img align="left" height="230" src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif"  />
 
 ###
 
