@@ -4,13 +4,16 @@
 
 ###
 
-<h1 align="left">Hi everyone! 👋</h1>
+<!-- <h1 align="left">Hi everyone! 👋</h1>
+
 
 ###
 
 <p align="left">I am a student and I love the world of cybersecurity and artificial intelligence.<br>I think it's amazing what we can do with these tools today! I love learning new things every day and exploring new ideas. <br>While I consider myself a Jr. developer, I am currently looking for a company that can help me develop my skills and deepen my knowledge (as an intern)</p>
 
 ###
+-->
+<h1 align="left">Cheer up! Be resilient</h1>
 
 <br clear="both">
 
