@@ -23,11 +23,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esteban-ll-aguilar&radius=0&theme=github-dark&area=true&order=5&custom_title=Esteban%20Leon%20Aguilar&color=44769F&line=34D0D7&point=C0CEDC&area_color=552C88&hide_title=false&hide_border=false" height="313" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-ll-aguilar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=esteban-ll-aguilar&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 ###
 
