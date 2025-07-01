@@ -1,10 +1,26 @@
-# Esteban León Aguilar
+<div align="left" style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg"/>
+  
+   <img src="https://raw.githubusercontent.com/esteban-ll-aguilar/esteban-ll-aguilar/main/images/Image_logo.jpeg" 
+       height="200" 
+       style="margin-left: 20px;" 
+       align="left" />
 
-**Desarrollador Backend | Entusiasta de IA y Ciberseguridad**
+  <div style="flex-grow: 1; text-align: center;">
+    <h1 style="margin: 0;">Esteban León Aguilar</h1>
+    <p><strong>Desarrollador Backend | Entusiasta de IA y Ciberseguridad</strong></p>
+    <p>Estudiante de Ingeniería en Ciencias de la Computación. Apasionado por la inteligencia artificial y la ciberseguridad, siempre explorando nuevas tecnologías.</p>
+  </div>
 
-Estudiante de Ingeniería en Ciencias de la Computación. Apasionado por la inteligencia artificial y la ciberseguridad, siempre explorando nuevas tecnologías.
+ <img src="https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif" 
+       height="215" 
+       style="margin-right: 20px;" 
+       align="right" />
+
+</div>
+
+
+<br clear="both"/>
 
 ---
 
@@ -25,7 +41,7 @@ Estudiante de Ingeniería en Ciencias de la Computación. Apasionado por la inte
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="FastAPI" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img width="12" />
@@ -49,30 +65,6 @@ Estudiante de Ingeniería en Ciencias de la Computación. Apasionado por la inte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esteban-ll-aguilar&theme=dark&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" height="180"/>
 </div>
 
-<!-- ---
-
-## 🌟 Actualmente
-
-```python
-objetivos_profesional = {
-    "corto_plazo": [
-        "Completar certificaciones en ciberseguridad",
-        "Desarrollar portfolio de proyectos de IA",
-        "Obtener prácticas profesionales en empresa tecnológica"
-    ],
-    "mediano_plazo": [
-        "Especialización en Machine Learning aplicado a ciberseguridad",
-        "Contribuir a proyectos open source relevantes",
-        "Obtener experiencia en equipos multidisciplinarios"
-    ],
-    "largo_plazo": [
-        "Liderar proyectos de investigación en IA y seguridad",
-        "Desarrollar soluciones tecnológicas de impacto social",
-        "Establecer startup de tecnología educativa"
-    ]
-}
-```
--->
 ---
 
 ## 📫 Contacto Profesional
@@ -81,7 +73,7 @@ objetivos_profesional = {
   <a href="https://www.linkedin.com/in/esteban-leon-aguilar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:esteban.aguilar@ejemplo.com">
+  <a href="mailto:esteban.h.leon.aguilar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/3steban_4guilar">
